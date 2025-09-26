@@ -1,0 +1,1 @@
+//Página que consome API do Strapi
